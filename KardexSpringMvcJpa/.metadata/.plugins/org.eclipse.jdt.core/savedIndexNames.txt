@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\KardexSpringMvc\.metadata\.plugins\org.eclipse.jdt.core
+3832208598.index
+1263304384.index
