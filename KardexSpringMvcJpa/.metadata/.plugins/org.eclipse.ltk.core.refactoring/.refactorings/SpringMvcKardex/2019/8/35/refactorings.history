@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move element &apos;WebConfig.java&apos; to &apos;config&apos;&#x0D;&#x0A;- Original project: &apos;SpringMvcKardex&apos;&#x0D;&#x0A;- Destination element: &apos;config&apos;&#x0D;&#x0A;- Original element: &apos;WebConfig.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" element1="src/main/resources/WebConfig.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1567197121961" target="src/main/resources/springmvc_example/config" units="0" version="1.0"/>
-</session>
